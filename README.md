@@ -4,10 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I've been coding for about a year now, I've recently started in Frontend development learning new ways to improve my coding skills and improve and better the way my code works.
+I’m a frontend developer who is always looking for new ways to enhance my skills and write cleaner, more efficient code.
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [loganheath90@gmail.com](mailto:loganheath90@gmail.com)
+* 🧠  Currently learning Next.js
 
 ### Skills
 
