@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I’m a frontend developer committed to constantly expanding my skills and writing cleaner, more efficient code.
 
 * 🌍  I'm based in United States
-* 🖥️  See my portfolio at [MyPortfolio](https://loganh.vercel.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://loganheath-sky-portfolio.vercel.app/)
 * ✉️  You can contact me at [loganheath90@gmail.com](mailto:loganheath90@gmail.com)
 * 🧠  I'm learning NextJS
 
