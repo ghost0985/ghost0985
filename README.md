@@ -1,7 +1,7 @@
 I’m a frontend developer committed to constantly expanding my skills and writing cleaner, more efficient code.
 
 * 🌍  I'm based in United States
-* 🖥️  See my portfolio at [https://loganheath-sky-portfolio.vercel.app/](http://https://loganheath-sky-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [https://loganheath-sky-portfolio.vercel.app/](https://loganheath-sky-portfolio.vercel.app/)
 * ✉️  You can contact me at [loganheath90@gmail.com](mailto:loganheath90@gmail.com)
 * 🧠  I'm currently learning Redux
 
